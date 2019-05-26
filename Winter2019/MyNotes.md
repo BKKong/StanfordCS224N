@@ -4,3 +4,8 @@ Week 3:
 - Commonly in NLP deep learning:
     - we learn both W (weights) and X (vectors), that's why it's called representation learning.
     - The word vectors re-represent one-hot vectors - move them around in an intermediate layer vector space
+
+Lecture 5:
+- Universal dependencies treebanks
+    - The Penn Treebank
+    
